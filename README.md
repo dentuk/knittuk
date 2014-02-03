@@ -2,7 +2,6 @@ knittuk
 =======
 
 Software for playing go &amp; AI player in C++
-firefox doc/html/index.html &
 
 Requirements
 ------------
